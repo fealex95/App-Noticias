@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet, Image, Alert, TouchableOpacity, Linking } from "react-native"
+import { View, Text, StyleSheet, Image, Alert, Linking } from "react-native"
 import React from 'react';
 import { TouchableNativeFeedback } from "react-native-gesture-handler";
 
