@@ -9,4 +9,4 @@ Foi utilizado uma programação basica que consiste em pesquisar em uma API de n
 React Native
 ## Screenshots
 
-<img src="https://github.com/fealex95/react-native-calculator-cod3r-curso/blob/main/Screenshots/WhatsApp%20Image%202022-03-26%20at%2012.29.21.jpeg" width=190 />
+<img src="https://github.com/fealex95/App-Noticias/blob/master/Screenshots/WhatsApp%20Image%202022-03-26%20at%2012.29.21.jpeg" width=190 />
